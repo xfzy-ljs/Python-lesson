@@ -1,0 +1,5 @@
+print()的格式
+print(value,...,sep='',end='\n',file=None)
+
+x=input('提取文字')
+
